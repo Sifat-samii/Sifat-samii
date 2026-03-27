@@ -50,10 +50,10 @@
   <!-- AI Tools -->
   <img src="https://img.shields.io/badge/Cursor-111111?style=flat"/>
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Codex-0A0A0A?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-000000?style=flat"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat"/>
 
 </p>
 
