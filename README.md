@@ -2,7 +2,7 @@
 <h3 align="center">Project Manager → Aspiring AI-Driven Product Manager</h3>
 
 <p align="right">
-  <img src="https://komarev.com/ghpvc/?username=sifat-samii&label=&color=0e75b6&style=flat" />
+ Profile Views <img src="https://komarev.com/ghpvc/?username=sifat-samii&label=&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -31,7 +31,6 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
