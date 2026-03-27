@@ -60,7 +60,7 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sifat-samii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifat-samii&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sifat-samii&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
 </p>
 
@@ -68,5 +68,4 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sifat-samii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6"/>
-</p>
+[![trophy](https://trophy.ryglcloud.net/?username=sifat-samii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)</p>
