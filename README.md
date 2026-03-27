@@ -19,7 +19,7 @@
 
 ## 🌐 Connect With Me
 <p>
-  <a href="https://linkedin.com/in/sifat-samii"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/sifat-mahmud-sami"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/sifatt_sami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
   <a href="https://facebook.com/sifatt.sami"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white"/></a>
 </p>
