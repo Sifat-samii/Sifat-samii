@@ -68,5 +68,5 @@
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=sifat-samii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6&rank=A,B" />
+  <img src="https://trophy.ryglcloud.net/?username=sifat-samii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1&column=3&rank=A,B" />
 </p>
