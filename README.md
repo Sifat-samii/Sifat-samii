@@ -10,7 +10,7 @@
 ## 💫 About Me
 - 🛠️ Leading end-to-end product development with a focus on scalable, AI-driven systems  
 - 🤝 Open to collaboration on SaaS, AI products, and creative tech  
-- 🧠 Strong in vibe coding and prompt engineering for rapid prototyping and execution  
+- 🧠 Skilled in rapid product building using vibe coding and advanced prompt engineering
 - 🌱 Currently learning system architecture, DevOps, and applied AI  
 - 💬 Ask me about product strategy, MVPs, automation systems, UI/UX execution, and AI workflows  
 - ⚡ Thrash metal guitarist — building tech by day and music by night  
@@ -67,5 +67,6 @@
 ---
 
 ## 🏆 Achievements
-
-[![trophy](https://trophy.ryglcloud.net/?username=sifat-samii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=sifat-samii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=12&row=1&column=6&exclude=Stars,Followers,Issues" />
+</p>
