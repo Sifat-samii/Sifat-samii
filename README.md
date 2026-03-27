@@ -29,14 +29,11 @@
 ## 💻 Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
   <img src="https://img.shields.io/badge/Electron-191970?style=flat&logo=electron&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
@@ -52,23 +49,33 @@
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
 
   <!-- AI Tools -->
+  <img src="https://img.shields.io/badge/Cursor-111111?style=flat"/>
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-000000?style=flat"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cursor-111111?style=flat"/>
+
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sifat-samii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-samii&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sifat-samii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" 
+    width="48%" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-samii&layout=compact&theme=tokyonight&hide_border=true" 
+    width="48%" 
+  />
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sifat-samii&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6"/>
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=sifat-samii&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" 
+    width="90%" 
+  />
 </p>
