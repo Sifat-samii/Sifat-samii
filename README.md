@@ -33,7 +33,6 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Electron-191970?style=flat&logo=electron&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazon-aws&logoColor=white"/>
   <img src="https://img.shields.io/badge/GoogleCloud-4285F4?style=flat&logo=google-cloud&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
@@ -51,8 +50,10 @@
   <!-- AI Tools -->
   <img src="https://img.shields.io/badge/Cursor-111111?style=flat"/>
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codex-0A0A0A?style=flat&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-000000?style=flat"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat&logo=n8n&logoColor=white"/>
 
 </p>
 
