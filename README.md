@@ -2,7 +2,7 @@
 <h3 align="center">Project Manager → Aspiring AI-Driven Product Manager</h3>
 
 <p align="right">
- Profile Views <img src="https://komarev.com/ghpvc/?username=sifat-samii&label=&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=sifat-samii&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -10,9 +10,9 @@
 ## 💫 About Me
 - 🛠️ Leading end-to-end product development with a focus on scalable, AI-driven systems  
 - 🤝 Open to collaboration on SaaS, AI products, and creative tech  
-- 🧠 Interested in automation, system design, and product-led growth  
+- 🧠 Strong in vibe coding and prompt engineering for rapid prototyping and execution  
 - 🌱 Currently learning system architecture, DevOps, and applied AI  
-- 💬 Ask me about product strategy, MVPs, automation systems, and UI/UX execution  
+- 💬 Ask me about product strategy, MVPs, automation systems, UI/UX execution, and AI workflows  
 - ⚡ Thrash metal guitarist — building tech by day and music by night  
 
 ---
@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/Node.js-6DA55F?style=flat&logo=node.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB"/>
@@ -49,6 +50,12 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white"/>
+
+  <!-- AI Tools -->
+  <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-000000?style=flat"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-111111?style=flat"/>
 </p>
 
 ---
@@ -56,16 +63,12 @@
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sifat-samii&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifat-samii&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-samii&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-samii&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
 ---
 
 ## 🏆 Achievements
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sifat-samii&theme=tokyonight&no-frame=true&margin-w=10&row=1"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=sifat-samii&theme=tokyonight&no-frame=true&margin-w=8&row=1&column=6"/>
 </p>
