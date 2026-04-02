@@ -8,7 +8,7 @@
 ---
 
 ## 💫 About Me
-- Leading end-to-end product development with a focus on scalable, AI-driven systems  
+- End-to-end product development with a focus on scalable, AI-driven systems  
 - Open to collaboration on SaaS, AI products, and creative tech  
 - Skilled in rapid product building using vibe coding and advanced prompt engineering
 - Currently learning system architecture, DevOps, and applied AI  
