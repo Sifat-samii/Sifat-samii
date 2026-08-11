@@ -7,7 +7,7 @@
 
 ---
 
-## 💫 About Me
+## ❯❯❯❯ About Me
 - End-to-end product development with a focus on scalable, AI-driven systems  
 - Open to collaboration on SaaS, AI products, and creative tech  
 - Skilled in rapid product building using vibe coding and advanced prompt engineering
@@ -17,7 +17,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 📱 Connect With Me
 <p>
   <a href="https://linkedin.com/in/sifat-mahmud-sami"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://instagram.com/sifatt_sami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white"/></a>
@@ -26,7 +26,7 @@
 
 ---
 
-## 💻 Tech Stack
+## 🖥️ Tech Stack
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
@@ -60,9 +60,19 @@
 ---
 
 ## 📊 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sifat-samii&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sifat-samii&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=sifat-samii&theme=tokyonight&hide_border=true"
+    height="160"
+    alt="GitHub Streak"
+  />
+
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sifat-samii&layout=compact&theme=tokyonight&hide_border=true"
+    height="160"
+    alt="Top Languages"
+  />
 </p>
 
 ---
