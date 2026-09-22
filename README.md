@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Sifat 👋</h1>
-<h3 align="center">Project Manager → Aspiring AI-Driven Product Manager</h3>
+<h3 align="center">Aspiring AI-Driven Product Manager</h3>
 
 <p align="right">
   <img src="https://komarev.com/ghpvc/?username=sifat-samii&label=Profile%20Views&color=0e75b6&style=flat" />
