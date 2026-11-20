@@ -1,13 +1,13 @@
 <!-- Dynamic Typing Header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Sifat+%F0%9F%91%8B;Aspiring+AI-Driven+Product+Manager;Building+Scalable+AI+Systems+%26+MVPs;Tech+by+Day+%7C+Thrash+Metal+Guitarist+by+Night" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=620&lines=Hi%2C+I'm+Sifat+%F0%9F%91%8B;Aspiring+AI-Driven+Product+Manager;Building+Scalable+AI+Systems+%26+MVPs;Open+to+AI+Product+Collaborations+%E2%80%94+Let's+Connect!" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sifat-samii&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
-  <a href="https://linkedin.com/in/sifat-mahmud-sami"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://instagram.com/sifatt_sami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/></a>
-  <a href="https://facebook.com/sifatt.sami"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/></a>
+  <img src="https://komarev.com/ghpvc/?username=sifat-samii&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <a href="https://linkedin.com/in/sifat-mahmud-sami"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://instagram.com/sifatt_sami"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram"/></a>
+  <a href="https://facebook.com/sifatt.sami"><img src="https://img.shields.io/badge/Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white" alt="Facebook"/></a>
 </p>
 
 ---
@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white"/>
   <img src="https://img.shields.io/badge/Cursor-111111?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Codex-000000?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white"/>
   <img src="https://img.shields.io/badge/ChatGPT-000000?style=flat-square&logo=openai&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gemini-4285F4?style=flat-square&logo=google&logoColor=white"/>
